@@ -7,8 +7,6 @@ sections:
 - type: document
   path: ss
   label: 顶顶顶
-  match: "**/*"
-  read_only: false
 - type: document
   path: FIRSTSTEPS.md
   label: Welcome - Start Here!
